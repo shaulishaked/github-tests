@@ -1,3 +1,4 @@
+# https://github.com/maxkomarychev/merge-pal-action
 name: Merge Pal (events)
 
 on:
